@@ -1,2 +1,3 @@
 # ProBuzzerServer
-ProBuzzer Server for serving Soundfiles and SSE
+
+ProBuzzer Server for serving sound files and SSE
